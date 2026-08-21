@@ -1,5 +1,5 @@
 # auction.py
-
+#auctions
 from commitments import generate_commitment_params, commit_bid, verify_commitment
 from zkproofs import generate_range_proof, verify_range_proof
 from secretsharing import share_value, reconstruct
